@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20231122</CreaDate><CreaTime>11114200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\Rename" Date="20231122" Time="111142">Rename E:\ArcPro\10_geoprocessing\buffer_poligono.shp E:\ArcPro\10_geoprocessing\buffer_polygon.shp ShapeFile</Process></lineage></DataProperties></Esri></metadata>
